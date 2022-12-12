@@ -1,0 +1,28 @@
+pipelines:
+  default:
+    - step:
+        name: Prepare and compress code
+        image: node:16
+        script:
+          - apt-get update && apt-get install zip -y
+          - npm i
+          - npm run build
+          - cd dist
+          - zip -r ../build.zip .
+          - cd ..
+          - mkdir artifacts
+          - mv *.zip ./artifacts
+        artifacts:
+          - artifacts/**
+    - step:
+        name: Deploy to S3
+        deployment: production
+        script:
+          - pipe: atlassian/aws-s3-deploy:1.1.0
+            variables:
+              AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+              AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+              AWS_DEFAULT_REGION: $AWS_DEFAULT_REGION
+              S3_BUCKET: $AWS_BUCKET_NAME/build/$BITBUCKET_REPO_FULL_NAME/$BITBUCKET_BRANCH
+              LOCAL_PATH: 'artifacts'
+              ACL: 'bucket-owner-full-control'

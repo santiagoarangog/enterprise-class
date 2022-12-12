@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="93.398" height="115.804" viewBox="0 0 93.398 115.804">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="Rectángulo_5351" data-name="Rectángulo 5351" width="53.983" height="61.115" fill="none"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <rect id="Rectángulo_5349" data-name="Rectángulo 5349" width="18.475" height="18.475" fill="none"/>
+        </clipPath>
+        <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#def5a8"/>
+            <stop offset="1" stop-color="#a3e801"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1="0.846" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fffced"/>
+            <stop offset="1" stop-color="#ffcf0d"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-3" x1="1" y1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#a5f5e6"/>
+            <stop offset="1" stop-color="#12b997"/>
+        </linearGradient>
+    </defs>
+    <g id="Grupo_25440" data-name="Grupo 25440" transform="translate(-140.939 -179.568)">
+        <g id="Grupo_25355" data-name="Grupo 25355">
+            <g id="Grupo_23772" data-name="Grupo 23772" transform="matrix(-0.966, -0.259, 0.259, -0.966, 194.871, 295.372)">
+                <g id="Grupo_23700" data-name="Grupo 23700" transform="translate(0 0)" clip-path="url(#clip-path)">
+                    <g id="Grupo_23699" data-name="Grupo 23699">
+                        <g id="Grupo_23698" data-name="Grupo 23698" clip-path="url(#clip-path)">
+                            <path id="Trazado_13955" data-name="Trazado 13955" d="M50.836,19.583a11.627,11.627,0,1,0-18.019-14.6c-.383.408-29.34,36.094-29.66,36.544a11.627,11.627,0,1,0,18.019,14.6c.383-.408,29.34-36.094,29.66-36.544" transform="translate(0 0)" fill="#9ed327"/>
+                            <g id="Grupo_23697" data-name="Grupo 23697" transform="translate(33.08 2.172)" opacity="0.378" style="mix-blend-mode: normal;isolation: isolate">
+                                <g id="Grupo_23696" data-name="Grupo 23696">
+                                    <g id="Grupo_23695" data-name="Grupo 23695" clip-path="url(#clip-path-3)">
+                                        <path id="Trazado_13956" data-name="Trazado 13956" d="M9.237,0A9.238,9.238,0,1,1,0,9.238,9.238,9.238,0,0,1,9.237,0" transform="translate(0 0)" fill="#fff"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Grupo_23773" data-name="Grupo 23773" transform="matrix(0.966, 0.259, -0.259, 0.966, 172.625, 179.568)">
+                <g id="Grupo_23700-2" data-name="Grupo 23700" transform="translate(0 0)" clip-path="url(#clip-path)">
+                    <g id="Grupo_23699-2" data-name="Grupo 23699">
+                        <g id="Grupo_23698-2" data-name="Grupo 23698" clip-path="url(#clip-path)">
+                            <path id="Trazado_13955-2" data-name="Trazado 13955" d="M50.836,19.583a11.627,11.627,0,1,0-18.019-14.6c-.383.408-29.34,36.094-29.66,36.544a11.627,11.627,0,1,0,18.019,14.6c.383-.408,29.34-36.094,29.66-36.544" transform="translate(0 0)" fill="#10cbc2"/>
+                            <g id="Grupo_23697-2" data-name="Grupo 23697" transform="translate(33.08 2.172)" opacity="0.378" style="mix-blend-mode: normal;isolation: isolate">
+                                <g id="Grupo_23696-2" data-name="Grupo 23696">
+                                    <g id="Grupo_23695-2" data-name="Grupo 23695" clip-path="url(#clip-path-3)">
+                                        <path id="Trazado_13956-2" data-name="Trazado 13956" d="M9.237,0A9.238,9.238,0,1,1,0,9.238,9.238,9.238,0,0,1,9.237,0" transform="translate(0 0)" fill="#fff"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Grupo_7" data-name="Grupo 7" transform="translate(154.775 206.406)">
+                <circle id="Elipse_26" data-name="Elipse 26" cx="33.225" cy="33.225" r="33.225" fill="url(#linear-gradient)"/>
+                <path id="Icon_awesome-check" data-name="Icon awesome-check" d="M12.241,31.077.528,19.3a1.82,1.82,0,0,1,0-2.563L3.076,14.17a1.8,1.8,0,0,1,2.548,0l7.891,7.936,16.9-17a1.8,1.8,0,0,1,2.548,0l2.548,2.563a1.82,1.82,0,0,1,0,2.563L14.79,31.077A1.8,1.8,0,0,1,12.241,31.077Z" transform="translate(15.275 14.618)" fill="#fdfbf8"/>
+            </g>
+            <circle id="Elipse_282" data-name="Elipse 282" cx="7.934" cy="7.934" r="7.934" transform="translate(140.939 192.051)" fill="url(#linear-gradient-2)"/>
+            <circle id="Elipse_283" data-name="Elipse 283" cx="4.126" cy="4.126" r="4.126" transform="translate(226.086 250.385)" fill="url(#linear-gradient-3)"/>
+        </g>
+    </g>
+</svg>
+  
