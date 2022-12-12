@@ -57,9 +57,3 @@ npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 ```sh
 npm run lint
 ```
-
-### Create .env file
-
-``` VITE_APP_URL_DEV=https://vincu.talentu.local/api/v1
-    VITE_APP_URL_PROD=https://apivincu.talentu.co/api/v1
-```
